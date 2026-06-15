@@ -122,11 +122,11 @@ When you run the pipeline, you will see output similar to the following:
 
 ```
 ROC-AUC Selection Model Score: 0.9123
-Новые признаки созданы
-Производительность AG: {'roc_auc': 0.925}
-Производительность LAMA: 0.9274
-Наилучшие веса: AutoGluon = 0.45, LightAutoML = 0.55
-Наилучший ROC AUC: 0.9301
+New features created
+AG performance: {'roc_auc': 0.925}
+LAMA performance: 0.9274
+Best weights: AutoGluon = 0.45, LightAutoML = 0.55
+Best ROC AUC: 0.9301
 ```
 
 ---
